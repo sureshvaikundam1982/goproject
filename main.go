@@ -28,15 +28,15 @@ func main() {
 	// const
 	const pi = 3.14
 
-	fmt.Println("%T/n", empty)
-	fmt.Println("%T/n", order)
-	fmt.Println("%v/n", drink)
-	fmt.Println("%v/n", quantity)
-	fmt.Println("%T/n", quantity)
-	fmt.Println("%v/n", food)
-	fmt.Println("%T/n", food)
-	fmt.Println("%v/n", pi)
-	fmt.Println("%T/n", pi)
+	fmt.Printf("%T/n", empty)
+	fmt.Printf("%T/n", order)
+	fmt.Printf("%v/n", drink)
+	fmt.Printf("%v/n", quantity)
+	fmt.Printf("%T/n", quantity)
+	fmt.Printf("%v/n", food)
+	fmt.Printf("%T/n", food)
+	fmt.Printf("%v/n", pi)
+	fmt.Printf("%T/n", pi)
 
 	fmt.Println("Hello", num)
 	fmt.Println("Hello", word)
